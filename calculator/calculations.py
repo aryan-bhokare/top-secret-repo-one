@@ -1,3 +1,2 @@
-"""
-Here it is.
+"""Here it is.
 """

@@ -6,3 +6,9 @@ nav:
   - Home: "index.md"
   - More Docs:
       - Logic: "top_secret/secret_logic.md"
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
